@@ -70,19 +70,11 @@ Shadow Strike: Ascension aims to deliver a next-generation ninja combat system w
 
 ## 📸 Screenshots & Visuals
 
-> *(Add your actual game screenshots below)*
-
+![Game Screenshot 1](image.png)
+![Game Screenshot 2](image-1.png)
+![Game Screenshot 3](image-2.png)
 
 \
-
----
-
-## 🔗 Useful Links
-
-* 🌐 Official Website: https://yourgamewebsite.com
-* 🎥 Gameplay Trailer: https://youtube.com/yourgame
-* 💬 Community Discord: https://discord.gg/yourgame
-* 🧑‍💻 Developer Portfolio: https://github.com/yourprofile
 
 ---
 
